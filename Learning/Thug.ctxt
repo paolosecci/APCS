@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Thug()
+comment1.params=fN\ lN\ pH\ cS
+comment1.target=Thug(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getSwagLevel()
+numComments=4

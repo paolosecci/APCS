@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Nerd()
+comment1.params=fN\ lN\ pH\ gS
+comment1.target=Nerd(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getSwagLevel()
+numComments=3
