@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=make\ year\ mpg\ xradio
+comment0.target=Car(java.lang.String,\ int,\ double,\ boolean)
+comment1.params=
+comment1.target=Car()
+comment2.params=
+comment2.target=java.lang.String\ getMake()
+comment3.params=make
+comment3.target=void\ setMake(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
