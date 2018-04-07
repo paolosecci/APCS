@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=title\ artist\ yearReleased\ sec\ isFire
+comment0.target=Song(java.lang.String,\ java.lang.String,\ int,\ int,\ boolean)
+comment1.params=
+comment1.target=Song()
+comment2.params=
+comment2.target=int\ getYearReleased()
+comment3.params=yearReleased
+comment3.target=void\ setYearReleased(int)
+comment4.params=
+comment4.target=java.lang.String\ convertToMinSec()
+comment5.params=
+comment5.target=boolean\ checkPassword()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
