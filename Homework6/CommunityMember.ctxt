@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=fName\ lName
+comment0.target=CommunityMember(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getFName()
+comment2.params=fName
+comment2.target=void\ setFName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getLName()
+comment4.params=lName
+comment4.target=void\ setLName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

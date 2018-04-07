@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=fName\ lName\ id\ sTime\ salary\ education\ cred
+comment0.target=Teacher(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double,\ int,\ int)
+comment1.params=
+comment1.target=int\ getCredential()
+comment2.params=cred
+comment2.target=void\ setCredential(int)
+comment3.params=
+comment3.target=int\ getEducationLevel()
+comment4.params=education
+comment4.target=void\ setEducationLevel(int)
+comment5.params=
+comment5.target=double\ getAnnualPay()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

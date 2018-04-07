@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PreciseClock()
+comment1.params=h\ m\ s\ a
+comment1.target=PreciseClock(int,\ int,\ int,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=memory\ color\ isT\ tunes
+comment0.target=MyPod(int,\ java.lang.String,\ boolean,\ java.lang.String[])
+comment1.params=
+comment1.target=boolean\ getIsTouch()
+comment2.params=
+comment2.target=java.lang.String[]\ getSongs()
+comment3.params=isT
+comment3.target=void\ setIsTouch(boolean)
+comment4.params=tunes
+comment4.target=void\ setSongs(java.lang.String[])
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
